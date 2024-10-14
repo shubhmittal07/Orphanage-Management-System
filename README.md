@@ -1,6 +1,6 @@
 # Documentation (For Personal Reference Only)
 
-https://github.com/shubhmittal07/Orphanage-Management-System/blob/main/Screenshot%20(2).png?raw=true
+<img src="https://github.com/shubhmittal07/Orphanage-Management-System/blob/main/Screenshot%20(2).png?raw=true" alt="Login Page">
 
 ## What is happening in the project?
 
