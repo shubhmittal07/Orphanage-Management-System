@@ -56,9 +56,3 @@
 
 ### **9. Logging Out:**
 - **Logout Process:** When a user logs out, they are redirected to the login page, and the JWT token is removed from localStorage.
-
-
-
-
-### 41a04240-6d0a-470e-85b9-4466722c2d75-02ff78dd-efcf-474e-8fdb-22a91e3f2ce4
-https://sonarcloud.io/summary/overall?id=iamneo-production_41a04240-6d0a-470e-85b9-4466722c2d75-02ff78dd-efcf-474e-8fdb-22a91e3f2ce4
